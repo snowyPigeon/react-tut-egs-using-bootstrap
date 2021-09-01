@@ -1,3 +1,16 @@
+# Get started using React with Bootstrap
+I followed this tutorial from Adrian Twarog at https://youtu.be/8pKjULHzs0s
+
+# What you will need to get started
+You will need the following installed:
+Node.js and npm https://nodejs.dev/download
+Yarn https://yarnpkg.com/getting-started/install
+
+Optionally, if you are using Windows you might use Chocolatey to install Yarn instead of npm.
+https://chocolatey.org/install
+
+Once you have Node and Yarn set up you should be able to follow Adrian's instructions without needing any other resources.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
